@@ -1,0 +1,70 @@
+.app-cont {
+  min-height: 100vh;
+}
+
+.courses-cont {
+  font-family: 'roboto';
+  padding-left: 40px;
+  min-height: 90vh;
+}
+
+.courses-list {
+  padding-left: 0px;
+  list-style-type: none;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.course-item {
+  width: 17%;
+  margin-right: 15px;
+  margin-bottom: 17px;
+}
+
+.link {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'roboto';
+}
+
+.c-logo {
+  width: 45%;
+  margin-right: 10px;
+}
+
+.c-para {
+  margin: 0px;
+  color: black;
+  font-weight: bold;
+}
+
+.loader-cont {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fail-cont {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'roboto';
+}
+
+.fail-pic {
+  width: 40%;
+}
+
+.butt {
+  background-color: #1e293b;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 5px;
+  height: 35px;
+}

@@ -1,0 +1,15 @@
+.navbar {
+  height: 10vh;
+  background-color: #4656a1;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.h-link {
+  text-decoration: none;
+}
+
+.w-logo {
+  width: 8%;
+}
